@@ -572,4 +572,10 @@ The Level I-III ANZICS classification system in Australia and New Zealand only r
 
 ******
 
+## Environment dependencies
+
+```{r}
+sessionInfo()
+```
+
 ## References
